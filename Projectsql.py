@@ -1,7 +1,7 @@
 import sqlite3
 
 # Provide the correct path to your SQLite database file
-db_path = r'C:\Users\Dylan\OneDrive\Escritorio\SqliteDBproject.db'
+db_path = r'SqliteDBproject.db'
 
 try:
     # Connect to the SQLite database
